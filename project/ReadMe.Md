@@ -1,1 +1,1 @@
-classification cifar10 data using CNNs
+classification of CIFAR10 data using CNNs
